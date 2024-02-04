@@ -17,13 +17,13 @@
 - 薩拉提文字
   - 薩拉提擬音
 - 騰格瓦文字
-  - Tengwar Names
-  - Tengwar Modes
-  - Tengwar Punctuation
-  - Tengwar Calligraphy
-  - Tengwar Illuminations 
-- References
-- Frequently Asked Questions
+  - 騰格瓦字母名
+  - 騰格瓦模式
+  - 騰格瓦標點
+  - 騰格瓦書法
+  - 騰格瓦彩飾 
+- 參考文獻
+- 常見問題
 - Downloads
   - Tengwar Eldamar (Font)
   - Valmaric Eldamar (Font)
@@ -31,5 +31,5 @@
   - Tengwar Parmaite (Font)
   - Tirion Sarati (Font)
   - Tengwar Scribe (Windows application)
-- Links
+- 連結
 - Awards and Mentions
