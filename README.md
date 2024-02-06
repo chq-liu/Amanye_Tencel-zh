@@ -15,22 +15,14 @@
 - Updates 2011-02-05
 1. [引言](1.引言.md)
 2. [薩拉提文字](2.0.薩拉提文字.md)
-    2.1. [薩拉提擬音](2.1.薩拉提擬音.md)
+    - [薩拉提擬音](2.1.薩拉提擬音.md)
 3. 騰格瓦文字
-    3.1. 騰格瓦字母名
-    3.2. 騰格瓦模式
-    3.3. 騰格瓦標點
-    3.4. 騰格瓦書法
-    3.5. 騰格瓦彩飾 
+    - 騰格瓦字母名
+    - 騰格瓦模式
+    - 騰格瓦標點
+    - 騰格瓦書法
+    - 騰格瓦彩飾 
 4. 參考文獻
 5. 常見問題
 6. 連結
-
-- Downloads
-    - Tengwar Eldamar (Font)
-    - Valmaric Eldamar (Font)
-  - Sarati Eldamar (Font)
-  - Tengwar Parmaite (Font)
-  - Tirion Sarati (Font)
-  - Tengwar Scribe (Windows application)
-- Awards and Mentions
+7. 下載
